@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NEARarkanas
+- 👀 I’m interested in applications architect
+- 🌱 I’m currently learning programming
